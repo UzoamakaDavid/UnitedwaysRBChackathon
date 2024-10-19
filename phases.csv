@@ -1,0 +1,74 @@
+Province,City,Location,Starts/Single,Starts/Semi,Starts/Row,Starts/Apt,Starts/Total,Starts/Single,Starts/Semi,Starts/Row,Starts/Apt,Starts/Total,Completions/Single,Completions/Semi,Completions/Row,Completions/Apt,Completions/Total,Completions/Single,Completions/Semi,Completions/Row,Completions/Apt,Completions/Total,Under Construction/Single,Under Construction/Semi,Under Construction/Row,Under Construction/Apt,Under Construction/Total
+,,,August,August,August,August,August,January to August,January to August,January to August,January to August,January to August,August,August,August,August,August,January to August,January to August,January to August,January to August,January to August,August,August,August,August,August
+PEI,Charlottetown CA,Brackley RM,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+PEI,Charlottetown CA,Charlottetown CY,11,18,4,1,34,54,78,17,174,323,2,8,4,0,14,39,74,19,174,306,41,54,7,220,322
+PEI,Charlottetown CA,Clyde River RM,1,0,0,0,1,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3
+PEI,Charlottetown CA,Cornwall T,0,0,0,0,0,7,18,6,74,105,2,0,0,0,2,4,12,4,0,20,6,22,6,74,108
+PEI,Charlottetown CA,Crossroads FD,1,0,0,0,1,4,0,0,2,6,0,0,0,0,0,6,0,0,0,6,6,0,0,2,8
+PEI,Charlottetown CA,"East River, Part 1 FD",0,0,0,0,0,9,0,0,0,9,0,0,0,0,0,9,0,0,0,9,3,0,0,0,3
+PEI,Charlottetown CA,"East River, Part 2 FD",0,0,0,0,0,4,0,0,0,4,0,0,0,0,0,5,0,0,0,5,0,0,0,0,0
+PEI,Charlottetown CA,Hunter River RM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PEI,Charlottetown CA,Johnstons River FD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+PEI,Charlottetown CA,Kingston RM,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+PEI,Charlottetown CA,Miltonvale Park RM,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2
+PEI,Charlottetown CA,Mount Stewart RM,0,0,0,0,0,1,0,8,0,9,0,0,0,0,0,0,0,0,0,0,1,0,8,0,9
+PEI,Charlottetown CA,New Glasgow FD,1,0,0,0,1,17,2,0,0,19,2,0,0,0,2,11,2,0,0,13,10,0,0,0,10
+PEI,Charlottetown CA,North Shore FD,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,4,0,0,0,4,1,0,0,0,1
+PEI,Charlottetown CA,North Shore RM,0,0,0,0,0,8,0,0,0,8,0,0,0,0,0,2,0,0,0,2,6,0,0,0,6
+PEI,Charlottetown CA,Stratford T,6,4,4,0,14,20,12,18,50,100,0,0,0,0,0,24,4,19,0,47,15,14,22,50,101
+PEI,Charlottetown CA,Union Road RM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PEI,Charlottetown CA,Warren Grove RM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PEI,Charlottetown CA,West River RM,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,2,0,0,0,2,1,0,0,0,1
+PEI,Charlottetown CA,Winsloe North FD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PEI,Charlottetown CA,York RM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NS,Halifax CMA,East Hants MD,34,10,0,0,44,96,22,10,76,204,23,8,16,0,47,112,14,32,35,193,78,32,10,111,231
+NS,Halifax CMA,Halifax RGM,41,10,15,94,160,444,78,472,"2,858","3,852",54,10,33,92,189,320,36,210,"1,027","1,593",622,132,544,"9,408","10,706"
+NS,Cape Breton CA,Cape Breton RGM,12,4,0,0,16,67,36,4,20,127,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NB,Fredericton CMA,Bright P,2,0,0,0,2,4,0,0,0,4,0,0,0,0,0,7,0,0,0,7,9,0,0,0,9
+NB,Fredericton CMA,Douglas P,1,0,0,0,1,21,2,0,0,23,1,0,0,0,1,6,0,0,0,6,25,2,0,0,27
+NB,Fredericton CMA,Fredericton C,8,2,4,127,141,62,22,14,215,313,6,2,25,0,33,75,12,88,207,382,51,28,99,929,"1,107"
+NB,Fredericton CMA,Gladstone P,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,3,0,0,0,3,0,0,0,0,0
+NB,Fredericton CMA,Hanwell RCR,3,0,0,0,3,11,0,0,0,11,0,0,0,0,0,14,0,0,0,14,14,0,0,0,14
+NB,Fredericton CMA,Harvey VL,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2
+NB,Fredericton CMA,Kingsclear P,2,0,0,0,2,8,0,0,0,8,0,0,0,0,0,6,0,0,0,6,13,0,0,0,13
+NB,Fredericton CMA,Lincoln P,8,0,0,0,8,26,0,0,0,26,3,0,0,0,3,17,0,0,0,17,23,0,0,0,23
+NB,Fredericton CMA,Manners Sutton P,1,0,0,0,1,4,0,0,0,4,0,0,0,0,0,8,0,0,0,8,4,0,0,0,4
+NB,Fredericton CMA,Maugerville P,4,0,0,0,4,6,0,0,0,6,0,0,0,0,0,4,0,0,0,4,8,0,0,0,8
+NB,Fredericton CMA,New Maryland P,2,0,0,0,2,16,0,0,0,16,1,0,0,0,1,10,0,0,0,10,19,0,0,0,19
+NB,Fredericton CMA,New Maryland VL,2,0,0,0,2,8,0,0,0,8,1,0,0,0,1,5,0,0,0,5,10,0,0,0,10
+NB,Fredericton CMA,Prince William P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NB,Fredericton CMA,Queensbury P,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,2,0,0,0,2
+NB,Fredericton CMA,Saint Marys P,3,0,0,0,3,18,0,0,1,19,1,0,0,0,1,17,0,0,0,17,20,0,0,1,21
+NB,Fredericton CMA,Tracy VL,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,0,0,0,2,1,0,0,0,1
+NB,Moncton CMA,Coverdale P,1,0,0,0,1,16,0,0,1,17,3,0,0,0,3,17,0,0,1,18,21,0,0,1,22
+NB,Moncton CMA,Dieppe C,2,0,10,18,30,11,26,187,238,462,2,4,25,0,31,18,32,212,110,372,12,32,232,911,"1,187"
+NB,Moncton CMA,Dorchester P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NB,Moncton CMA,Dorchester VL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NB,Moncton CMA,Elgin P,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+NB,Moncton CMA,Hillsborough P,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,5,0,0,0,5,0,0,0,0,0
+NB,Moncton CMA,Hillsborough VL,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,1,0,0,0,1,2,0,0,0,2
+NB,Moncton CMA,Hopewell P,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+NB,Moncton CMA,Memramcook VL,9,0,0,1,10,16,0,0,2,18,0,0,0,0,0,4,0,4,0,8,19,0,0,2,21
+NB,Moncton CMA,Moncton C,8,18,0,199,225,60,94,13,802,969,8,14,25,244,291,43,52,44,968,"1,107",62,98,23,"1,581","1,764"
+NB,Moncton CMA,Moncton P,9,0,4,0,13,38,0,4,3,45,5,0,0,1,6,36,0,0,3,39,47,0,4,3,54
+NB,Moncton CMA,Riverview TV,4,4,0,154,162,18,28,8,163,217,1,6,4,48,59,11,8,26,141,186,17,26,12,291,346
+NB,Moncton CMA,Saint0Paul P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0
+NB,Moncton CMA,Salisbury VL,0,0,0,0,0,6,0,0,0,6,0,0,0,0,0,5,0,0,0,5,5,0,0,0,5
+NB,Saint John CMA,Grand Bay0Westfield TV,1,0,0,0,1,7,0,0,0,7,0,0,0,0,0,6,0,0,0,6,11,0,0,0,11
+NB,Saint John CMA,Greenwich P,0,0,0,0,0,4,0,0,0,4,0,0,0,0,0,2,0,0,0,2,7,0,0,0,7
+NB,Saint John CMA,Hampton P,1,0,0,0,1,5,0,0,0,5,0,0,0,0,0,4,0,0,0,4,8,0,0,0,8
+NB,Saint John CMA,Hampton TV,1,2,0,0,3,9,6,0,0,15,0,0,0,0,0,13,2,0,0,15,10,6,0,0,16
+NB,Saint John CMA,Kingston P,1,0,0,0,1,9,0,0,0,9,1,0,0,0,1,9,0,0,0,9,10,0,0,0,10
+NB,Saint John CMA,Lepreau P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3,1,0,0,0,1
+NB,Saint John CMA,Musquash P,1,0,0,0,1,4,0,0,0,4,0,0,0,0,0,4,0,0,0,4,3,0,0,0,3
+NB,Saint John CMA,Norton P,0,0,0,0,0,4,0,0,0,4,0,0,0,0,0,6,0,0,0,6,2,0,0,0,2
+NB,Saint John CMA,Petersville P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0
+NB,Saint John CMA,Quispamsis TV,8,2,0,1,11,36,4,3,57,100,0,0,0,8,8,39,2,3,16,60,51,4,3,81,139
+NB,Saint John CMA,Rothesay P,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,36,38
+NB,Saint John CMA,Rothesay TV,1,0,0,0,1,10,0,0,48,58,2,0,0,0,2,6,0,0,0,6,13,0,0,96,109
+NB,Saint John CMA,Saint John C,9,0,4,15,28,37,0,20,225,282,9,0,0,0,9,45,0,13,276,334,28,0,24,455,507
+NB,Saint John CMA,Saint Martins P,0,0,0,0,0,2,0,0,0,2,1,0,0,0,1,3,0,0,0,3,1,0,0,0,1
+NB,Saint John CMA,Simonds P,0,0,0,0,0,7,0,0,0,7,1,0,0,0,1,8,0,0,0,8,5,0,0,0,5
+NB,Saint John CMA,St. Martins VL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NB,Saint John CMA,Upham P,1,0,0,0,1,4,0,0,0,4,0,0,0,0,0,3,0,0,0,3,4,0,0,0,4
+NB,Saint John CMA,Westfield P,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,3,0,0,0,3,1,0,0,0,1
